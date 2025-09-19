@@ -1,0 +1,1292 @@
+2025-09-19 19:49:25 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.49.25
+2025-09-19 19:49:25 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 19:49:25 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 19:49:25 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 19:49:25 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 19:49:25 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 19:49:25 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 19:49:28 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 19:49:28 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 19:49:29 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 19:49:29 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 19:49:30 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:49:30 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 19:49:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:49:38 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:38 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 19:49:41 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:41 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 19:49:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:49:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.49.45
+2025-09-19 19:49:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:49:46 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.49.46
+2025-09-19 19:49:46 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:49:46 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 19:49:46 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 19:49:49 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:49:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 19:49:55 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 19:49:55 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.49.55
+2025-09-19 19:49:55 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:49:55 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 19:49:58 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:01 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:01 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 19:50:02 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 19:50:02 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 19:50:02 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 19:50:02 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 19:50:02 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 19:50:02 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 19:50:04 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 19:50:04 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 19:50:04 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 19:50:04 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 19:50:04 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 19:50:04 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 19:50:04 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 19:50:07 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 19:50:07 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 19:50:08 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 19:50:08 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 19:50:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:50:09 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 19:50:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:50:17 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:17 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 19:50:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:20 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 19:50:21 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.50.24
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.50.24
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 19:50:24 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 19:50:27 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 19:50:31 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 19:50:33 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 19:50:33 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_19.50.33
+2025-09-19 19:50:33 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 19:50:33 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 19:50:36 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:39 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 19:50:39 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 19:50:40 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:08:41 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.08.41
+2025-09-19 20:08:41 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 20:08:41 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:08:41 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:08:41 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 20:08:41 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:08:41 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 20:08:43 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 20:08:43 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:08:44 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:08:44 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:08:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:08:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:08:48 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:08:50 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:08:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:08:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:08:56 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:08:56 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 20:08:57 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:09:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.00
+2025-09-19 20:09:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:01 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.01
+2025-09-19 20:09:01 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:01 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:09:01 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:09:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:09:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:08 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:09:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:09:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.11
+2025-09-19 20:09:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:11 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:09:14 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:17 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:09:17 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:09:17 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:09:17 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:09:17 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 20:09:17 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:09:17 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 20:09:19 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 20:09:19 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:09:19 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:09:19 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:09:19 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 20:09:19 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:09:19 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 20:09:23 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 20:09:23 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:09:24 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:09:24 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:09:25 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:09:25 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:09:28 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:29 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:09:33 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:33 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:09:36 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:36 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 20:09:37 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.40
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.40
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:09:40 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:09:43 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:09:46 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:09:47 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:09:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:09:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.09.49
+2025-09-19 20:09:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:09:49 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:09:52 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:55 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:09:55 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:09:56 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:11:08 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.11.08
+2025-09-19 20:11:08 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 20:11:08 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:11:08 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:11:08 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 20:11:08 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:11:08 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 20:11:10 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 20:11:10 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:11:11 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:11:11 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:11:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:11:12 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:11:15 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:11:19 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:19 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:11:22 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:22 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 20:11:23 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:11:26 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.11.27
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.11.27
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:11:27 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:11:30 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:33 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:34 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:11:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:11:35 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:11:37 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:11:37 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.11.37
+2025-09-19 20:11:37 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:11:37 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:11:40 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:43 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:11:43 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:11:43 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:11:43 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:11:43 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 20:11:43 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:11:43 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 20:11:45 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 20:11:45 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:11:45 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:11:45 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:11:45 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 20:11:45 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:11:45 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 20:11:48 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 20:11:48 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:11:49 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:11:49 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:11:50 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:11:50 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:11:53 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:11:58 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:11:58 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:12:01 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:01 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 20:12:02 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.12.05
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.12.05
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:12:05 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:12:08 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:12:11 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:12:12 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:12:14 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:12:14 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.12.14
+2025-09-19 20:12:14 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:12:14 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:12:17 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:12:20 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:12:21 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:13:16 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.13.16
+2025-09-19 20:13:16 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 20:13:16 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:13:16 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:13:16 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 20:13:17 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:13:17 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 20:13:18 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 20:13:18 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:13:19 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:13:19 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:13:20 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:13:20 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:13:23 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:24 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:13:27 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:27 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:13:31 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:31 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 20:13:32 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.13.35
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.13.35
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:13:35 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:13:38 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:41 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:41 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:41 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:42 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:13:43 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:13:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:13:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.13.45
+2025-09-19 20:13:45 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:13:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:13:48 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:51 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:13:51 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:13:52 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:13:52 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:13:52 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:13:52 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 20:13:52 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:13:52 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 20:13:53 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 20:13:53 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:13:53 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:13:53 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:13:53 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 20:13:53 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:13:53 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 20:13:57 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 20:13:57 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:13:57 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:13:57 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:13:58 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:13:58 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:14:01 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:03 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:14:06 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:06 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:14:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:09 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 20:14:10 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.14.13
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.14.13
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:14:13 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:14:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:19 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:19 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:14:20 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:14:22 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:14:22 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.14.22
+2025-09-19 20:14:22 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:14:22 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:14:25 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:28 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:14:28 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:14:29 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:15:45 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.15.45
+2025-09-19 20:15:45 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 20:15:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:15:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:15:45 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 20:15:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:15:45 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 20:15:47 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 20:15:47 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:15:48 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:15:48 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:15:49 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:15:49 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:15:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:15:53 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:15:56 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:15:56 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:15:59 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:15:59 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 20:16:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.04
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.04
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:16:04 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:16:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:16:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:11 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:12 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:16:14 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:16:14 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.14
+2025-09-19 20:16:14 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:14 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:16:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:20 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:20 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:16:21 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:16:21 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:16:21 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:16:21 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 20:16:21 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:16:21 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 20:16:22 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 20:16:22 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:16:22 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:16:22 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:16:22 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 20:16:22 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:16:22 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 20:16:25 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 20:16:25 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:16:26 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:16:26 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:16:27 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:16:27 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:16:30 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:31 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:16:34 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:34 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:16:38 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:38 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 20:16:39 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.42
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.42
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:16:42 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:16:45 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:16:49 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:16:51 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:16:51 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.16.51
+2025-09-19 20:16:51 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:16:51 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:16:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:57 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:16:57 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:16:58 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:22:51 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.22.51
+2025-09-19 20:22:51 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 20:22:51 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:22:51 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:22:51 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - CHROME
+2025-09-19 20:22:51 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:22:51 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - CHROME Browser options set successfully
+2025-09-19 20:22:52 [TestNG-test-Chrome_test-1] INFO  BaseTest - CHROME Browser launched in successfully
+2025-09-19 20:22:52 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:22:53 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:22:53 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:22:54 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:22:54 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:22:57 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:22:58 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:23:02 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:02 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:23:05 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:05 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 20:23:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:23:09 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:09 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.09
+2025-09-19 20:23:09 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.10
+2025-09-19 20:23:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:10 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:23:10 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:23:13 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:17 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:23:19 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:23:20 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.20
+2025-09-19 20:23:20 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:20 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:23:23 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:26 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:26 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:23:26 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:23:26 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:23:26 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:23:26 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - EDGE
+2025-09-19 20:23:26 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:23:26 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - edge Browser options set successfully
+2025-09-19 20:23:28 [TestNG-test-Edge_test-1] ERROR StockDetailsTest - Some problem while launching browser in BForg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 138
+Current browser version is 140.0.3485.66 with binary path C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 
+Host info: host: 'AKSHARA', ip: '192.168.0.107'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], binary: C:\Program Files (x86)\Micr..., extensions: []}}]}]
+2025-09-19 20:23:28 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 20:23:28 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 20:23:28 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 20:23:28 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - FIREFOX
+2025-09-19 20:23:28 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 20:23:28 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - firefox Browser options set successfully
+2025-09-19 20:23:31 [TestNG-test-firefox_test-1] INFO  BaseTest - FIREFOX Browser launched in successfully
+2025-09-19 20:23:31 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 20:23:32 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 20:23:32 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 20:23:33 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:23:33 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 20:23:36 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:37 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:23:40 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:40 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 20:23:43 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:43 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 20:23:44 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.48
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.48
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 20:23:48 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 20:23:51 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 20:23:54 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 20:23:56 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 20:23:57 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_20.23.57
+2025-09-19 20:23:57 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 20:23:57 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 20:24:00 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:24:03 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 20:24:03 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 20:24:03 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 23:16:39 [main] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.16.39
+2025-09-19 23:16:39 [main] INFO  ExtentManager - Extent Report setup completed
+2025-09-19 23:16:39 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 23:16:39 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 23:16:39 [TestNG-test-Chrome_test-1] INFO  BaseTest - Setting up Browser based on user input - 
+2025-09-19 23:16:39 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 23:16:39 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Chrome Browser set as default browser successfully
+2025-09-19 23:16:43 [TestNG-test-Chrome_test-1] INFO  BaseTest -  Browser launched in successfully
+2025-09-19 23:16:43 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 23:16:43 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 23:16:43 [TestNG-test-Chrome_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 23:16:44 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:16:44 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 23:16:47 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:16:49 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:16:52 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:16:52 [TestNG-test-Chrome_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 23:16:55 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:16:55 [TestNG-test-Chrome_test-1] INFO  HomePage - TANLA
+2025-09-19 23:16:56 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:16:59 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:16:59 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.16.59
+2025-09-19 23:16:59 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.17.00
+2025-09-19 23:17:00 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:00 [TestNG-test-Chrome_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 23:17:00 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 23:17:03 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 23:17:06 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  HomePage -  - 
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:07 [TestNG-test-Chrome_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 23:17:09 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 23:17:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.17.10
+2025-09-19 23:17:10 [TestNG-test-Chrome_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:10 [TestNG-test-Chrome_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 23:17:13 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:16 [TestNG-test-Chrome_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:16 [TestNG-test-Chrome_test-1] INFO  BaseTest - Browser closed
+2025-09-19 23:17:16 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 23:17:16 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 23:17:16 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 23:17:16 [TestNG-test-Edge_test-1] INFO  BaseTest - Setting up Browser based on user input - 
+2025-09-19 23:17:16 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 23:17:16 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Chrome Browser set as default browser successfully
+2025-09-19 23:17:17 [TestNG-test-Edge_test-1] INFO  BaseTest -  Browser launched in successfully
+2025-09-19 23:17:17 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 23:17:18 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 23:17:18 [TestNG-test-Edge_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 23:17:19 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:17:19 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 23:17:22 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:23 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:17:27 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:27 [TestNG-test-Edge_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 23:17:30 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:30 [TestNG-test-Edge_test-1] INFO  HomePage - TANLA
+2025-09-19 23:17:31 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:17:34 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:34 [TestNG-test-Edge_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.17.34
+2025-09-19 23:17:34 [TestNG-test-Edge_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:34 [TestNG-test-Edge_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.17.34
+2025-09-19 23:17:35 [TestNG-test-Edge_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:35 [TestNG-test-Edge_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 23:17:35 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 23:17:38 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 23:17:41 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  HomePage -  - 
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:17:42 [TestNG-test-Edge_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 23:17:44 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 23:17:44 [TestNG-test-Edge_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.17.44
+2025-09-19 23:17:44 [TestNG-test-Edge_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:17:44 [TestNG-test-Edge_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 23:17:47 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:50 [TestNG-test-Edge_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:50 [TestNG-test-Edge_test-1] INFO  BaseTest - Browser closed
+2025-09-19 23:17:51 [main] INFO  BaseTest - Extent report flushed from listner class
+2025-09-19 23:17:51 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Initiating Browser launcher method
+2025-09-19 23:17:51 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution started for Retrieving Stock prices and other values ******
+2025-09-19 23:17:51 [TestNG-test-firefox_test-1] INFO  BaseTest - Setting up Browser based on user input - 
+2025-09-19 23:17:51 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Setting up Browser settings...
+2025-09-19 23:17:51 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Chrome Browser set as default browser successfully
+2025-09-19 23:17:52 [TestNG-test-firefox_test-1] INFO  BaseTest -  Browser launched in successfully
+2025-09-19 23:17:52 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Launching website - https://www.nseindia.com
+2025-09-19 23:17:53 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Opened NSE India website
+2025-09-19 23:17:53 [TestNG-test-firefox_test-1] INFO  HomePage - Home Page constructor initiated
+2025-09-19 23:17:54 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:17:54 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla
+2025-09-19 23:17:57 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:17:58 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:18:01 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:01 [TestNG-test-firefox_test-1] INFO  HomePage - Popup appeared and closed it
+2025-09-19 23:18:04 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:04 [TestNG-test-firefox_test-1] INFO  HomePage - TANLA
+2025-09-19 23:18:05 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 1
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.18.09
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.18.09
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  HomePage - Stock selected based on input
+2025-09-19 23:18:09 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - Stock Name: Tanla - searched results displayed and selected
+2025-09-19 23:18:12 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week High (18-Sep-2024) - 954.50
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  HomePage - 52 Week Low (03-Mar-2025) - 409.35
+2025-09-19 23:18:15 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage - Upper Band - 839.50
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage - Lower Band - 559.70
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage - Price Band (%) - 20
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage - Daily Volatility - 2.78
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage - Annualised Volatility - 53.11
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  HomePage -  - 
+2025-09-19 23:18:16 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:17 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:17 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[1]
+2025-09-19 23:18:17 [TestNG-test-firefox_test-1] INFO  appLibrary - Dynamic xpath crated using runtime variable - //div[@class='col-md-3 card-spacing priceinfodiv']//tr[rep]/td[2]
+2025-09-19 23:18:17 [TestNG-test-firefox_test-1] INFO  HomePage - Tick Size - 0.05
+2025-09-19 23:18:19 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 2
+2025-09-19 23:18:19 [TestNG-test-firefox_test-1] INFO  appLibrary - Generating customer current date time string - 2025-09-19_23.18.19
+2025-09-19 23:18:19 [TestNG-test-firefox_test-1] INFO  appLibrary - Page screen shot processed
+2025-09-19 23:18:19 [TestNG-test-firefox_test-1] INFO  StockDetailsTest - ****** Test Execution completed for Retrieving Stock prices and other values ******
+2025-09-19 23:18:22 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:25 [TestNG-test-firefox_test-1] INFO  appLibrary - Static wait method executed - 3
+2025-09-19 23:18:25 [TestNG-test-firefox_test-1] INFO  BaseTest - Browser closed
+2025-09-19 23:18:25 [main] INFO  BaseTest - Extent report flushed from listner class
